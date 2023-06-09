@@ -26,3 +26,5 @@
 <p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/5e2e02b2-bcb5-4579-9aee-6a1a08321349" alt="ahmetburakozturk" /> 
 <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/2f044a36-4458-43fb-b0c3-e9dfefbe600e" alt="ahmetburakozturk" /> 
 <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/57aab791-d11d-4c22-899f-8694091e3ecc" alt="ahmetburakozturk" /> </p>
+
+ <p>If you want the give me a feedback: <a href="mailto:ahmetburakozturk28@gmail.com">ahmetburakozturk28@gmail.com</a></p>
