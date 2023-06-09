@@ -1,9 +1,13 @@
 # iPhone_ContactApp-Swift-CoreData
  
-I developed this project to improve myself and reinforce what I learned in my Swift learning process.
-I used CoreData for saving Contact and Call Informations.
-All pages are responsive.
-Screen Schema:
+<h2>Hi,<h3/>
+<h3>I developed this project to improve myself and reinforce what I learned in my Swift learning process.<h3/>
+<br/>
+<h3>I used CoreData for saving Contact and Call Informations.<h3/>
+<br/>
+<h3>All pages are responsive.<h3/>
+<br/>
+<h3>Screen Schema:<h3/>
 <p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/b890623a-105f-4e1e-887e-f6242290963f" width="700" height="800"/> </p>
 <br/>
 <br/>
