@@ -5,7 +5,7 @@ I used CoreData for saving Contact and Call Informations.
 All pages are responsive.
 Here's some screenshots from the application:
 <p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/69018c0d-fadb-4547-9dc5-560e9b11b42a" alt="ahmetburakozturk" /> </p>
-<p align="left"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/2fb0f5ba-83da-4b31-953f-541b80669184" alt="ahmetburakozturk" /> </p>
+<p align="left"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/2fb0f5ba-83da-4b31-953f-541b80669184" alt="ahmetburakozturk" /><img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/3d410339-10a7-459e-8f53-67f3758137eb" alt="ahmetburakozturk" /><img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/629502af-894c-4a13-93de-ef3de9b1a34a" alt="ahmetburakozturk" /> </p>
 <p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/3d410339-10a7-459e-8f53-67f3758137eb" alt="ahmetburakozturk" /> </p>
 <p align="rigth"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/629502af-894c-4a13-93de-ef3de9b1a34a" alt="ahmetburakozturk" /> </p>
 <p align="left"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/97927cfe-4014-4f1e-9966-501ede4e8fcb" alt="ahmetburakozturk" /> </p>
