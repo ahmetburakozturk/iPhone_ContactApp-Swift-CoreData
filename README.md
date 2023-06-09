@@ -15,9 +15,9 @@
 <h3>Here's some screenshots from the application:<h3/>
 <br/>
 <h3>Add New Contact - Contact Detail - Contact Edit<h3/>
-<p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/8b910ccc-9048-4433-b248-38a04ed7a2f4" alt="ahmetburakozturk" />
-<img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/456bb742-09ec-4d6c-901e-5a968811cc4d" alt="ahmetburakozturk" /> 
-<img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/3f53ce27-5f17-4135-92b5-a364a218d88d" alt="ahmetburakozturk" /></p>
+<p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/8b910ccc-9048-4433-b248-38a04ed7a2f4" alt="ahmetburakozturk" width="200" height="500"/>
+<img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/456bb742-09ec-4d6c-901e-5a968811cc4d" alt="ahmetburakozturk" width="200" height="500"/> 
+<img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/3f53ce27-5f17-4135-92b5-a364a218d88d" alt="ahmetburakozturk" width="200" height="500"/></p>
 
 <br/>
 <h3>Favorite Contacts - Last Calls - Missed Calls<h3/>
