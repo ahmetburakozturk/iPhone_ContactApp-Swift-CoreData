@@ -4,11 +4,18 @@ I developed this project to improve myself and reinforce what I learned in my Sw
 I used CoreData for saving Contact and Call Informations.
 All pages are responsive.
 Screen Schema:
-<p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/2fb0f5ba-83da-4b31-953f-541b80669184" alt="ahmetburakozturk" /> </p>
+<p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/b890623a-105f-4e1e-887e-f6242290963f" /> </p>
 <br/>
 <br/>
 Here's some screenshots from the application:
 
-<p align="left"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/3d410339-10a7-459e-8f53-67f3758137eb" alt="ahmetburakozturk" /><img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/629502af-894c-4a13-93de-ef3de9b1a34a" alt="ahmetburakozturk" /><img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/97927cfe-4014-4f1e-9966-501ede4e8fcb" alt="ahmetburakozturk" /> </p>
-<p align="left"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/717d2403-d069-4860-9833-8fbaee112270" alt="ahmetburakozturk" /><img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/c0536618-3c4e-4d91-8fa2-de9108fd6995" alt="ahmetburakozturk" /><img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/15e779ea-82bc-4f60-b899-a4a8c2c58ea5" alt="ahmetburakozturk" /> </p>
+Add New Contact - Contact Detail - Contact Edit
 
+<p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/8b910ccc-9048-4433-b248-38a04ed7a2f4" alt="ahmetburakozturk" />
+<img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/456bb742-09ec-4d6c-901e-5a968811cc4d" alt="ahmetburakozturk" /> 
+<img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/3f53ce27-5f17-4135-92b5-a364a218d88d" alt="ahmetburakozturk" /></p>
+
+Favorite Contacts - Last Calls - Missed Calls
+<p align="left"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/5e2e02b2-bcb5-4579-9aee-6a1a08321349" alt="ahmetburakozturk" /> 
+<img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/2f044a36-4458-43fb-b0c3-e9dfefbe600e" alt="ahmetburakozturk" /> 
+<img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/57aab791-d11d-4c22-899f-8694091e3ecc" alt="ahmetburakozturk" /> </p>
