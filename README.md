@@ -4,7 +4,7 @@ I developed this project to improve myself and reinforce what I learned in my Sw
 I used CoreData for saving Contact and Call Informations.
 All pages are responsive.
 Screen Schema:
-<p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/b890623a-105f-4e1e-887e-f6242290963f" /> </p>
+<p align="center"> <img src="https://github.com/ahmetburakozturk/iPhone_ContactApp-Swift-CoreData/assets/79537376/b890623a-105f-4e1e-887e-f6242290963f" width="200" height="300"/> </p>
 <br/>
 <br/>
 <h3>Here's some screenshots from the application:<h3/>
