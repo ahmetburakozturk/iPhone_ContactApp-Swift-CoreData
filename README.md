@@ -3,8 +3,9 @@
 
 <h3>I developed this project to improve myself and reinforce what I learned in my Swift learning process.<h3/>
  
-<h3>I used CoreData for saving Contact and Call Informations.<h3/>
-
+<h3>Swift<h3/>
+<h3>CoreData<h3/>
+<h3>UIKit<h3/>
 <h3>All pages are responsive.<h3/>
 
 <h3>Screen Schema:<h3/>
