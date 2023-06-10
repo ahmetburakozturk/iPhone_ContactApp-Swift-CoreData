@@ -2,6 +2,8 @@
 <h2>Hi,</h2>
 
 <h3>I developed this project to improve myself and reinforce what I learned in my Swift learning process.</h3>
+ <p>You can list your contacts, add new contact with a photo. Name and phone number fields are required. If you press the "add to favorites" button that contact will be join favorites list and page, you can also remove from favorites with same button.(Of course button title is changing.) If you press the call button this call automaticly adding in last calls. Unfortunetly you can't choose the call type, time vs attributes.</p>
+ 
  
 <h3>Swift</h3>
 <h3>CoreData</h3>
